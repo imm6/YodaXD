@@ -1,6 +1,6 @@
 # YodaXD 
 
-Barcelona..
+Barcelona.
 
 ## Social:
 <a href="https://github.com/blowaxd"><img src="https://img.shields.io/badge/-@YodaXD-%23181717?style=flat-square&logo=github" height="25"></a>
