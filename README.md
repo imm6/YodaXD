@@ -1,10 +1,10 @@
 # YodaXD 
 
-Barcelona.
+Living in Barcelona (Spain).
 
 ## Social:
-<a href="https://github.com/blowaxd"><img src="https://img.shields.io/badge/-@YodaXD-%23181717?style=flat-square&logo=github" height="25"></a>
-<a href="https://discord.gg/noswings"><img src="https://img.shields.io/badge/-Yoda%231337-%232c2f33?style=flat-square&logo=discord" height="25"></a>
+<a href="https://github.com/YodaXD"><img src="https://img.shields.io/badge/-@YodaXD-%23181717?style=flat-square&logo=github" height="25"></a>
+<a href="https://discord.gg"><img src="https://img.shields.io/badge/-Yoda%231337-%232c2f33?style=flat-square&logo=discord" height="25"></a>
 
 
 ## Languages:
@@ -20,8 +20,13 @@ Barcelona.
 
 
 ## CI/CD experience:
-
 <code><img height="50" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"></code>>
 
+## My Projects 
+### TGN X 
+
+Roblox Exploit
+
+<a href="https://tgn-x-web.vercel.app/s"><img src="https://tgn-x-web.vercel.app/images/favicon2.png" height="25"></a>
 
 ![Yoda's github stats](https://github-readme-stats.vercel.app/api?username=YodaXD&show_icons=true&hide=[%22issues%22])
