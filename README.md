@@ -27,6 +27,6 @@ Living in Barcelona (Spain).
 
 Roblox Exploit
 
-<a href="https://tgn-x-web.vercel.app/s"><img src="https://tgn-x-web.vercel.app/images/favicon2.png" height="25"></a>
+<a href="https://tgn-x-web.vercel.app/"><img src="https://tgn-x-web.vercel.app/images/favicon2.png" height="25"></a>
 
 ![Yoda's github stats](https://github-readme-stats.vercel.app/api?username=YodaXD&show_icons=true&hide=[%22issues%22])
