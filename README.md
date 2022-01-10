@@ -22,11 +22,5 @@ Living in Barcelona (Spain).
 ## CI/CD experience:
 <code><img height="50" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"></code>>
 
-## My Projects 
-### TGN X 
-
-Roblox Exploit
-
-<a href="https://tgn-x-web.vercel.app/"><img src="https://tgn-x-web.vercel.app/images/favicon2.png" height="25"></a>
 
 ![Yoda's github stats](https://github-readme-stats.vercel.app/api?username=YodaXD&show_icons=true&hide=[%22issues%22])
