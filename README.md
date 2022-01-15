@@ -20,7 +20,7 @@ Living in Barcelona (Spain).
 
 
 ## CI/CD experience:
-<code><img height="50" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"></code>>
+<code><img height="50" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"></code>
 
 
 ![Yoda's github stats](https://github-readme-stats.vercel.app/api?username=YodaXD&show_icons=true&hide=[%22issues%22])
