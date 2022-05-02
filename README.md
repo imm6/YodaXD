@@ -23,4 +23,8 @@ Living in Barcelona (Spain).
 <code><img height="50" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"></code>
 
 
+## Projects:
+<code><img height="50" src="https://cdn.discordapp.com/attachments/970475795661352960/970704412257443910/transparentplanet.png"></code>
+
+
 ![Yoda's github stats](https://github-readme-stats.vercel.app/api?username=YodaXD&show_icons=true&hide=[%22issues%22])
