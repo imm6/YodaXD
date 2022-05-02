@@ -4,7 +4,7 @@ Living in Barcelona (Spain).
 
 ## Social:
 <a href="https://github.com/YodaXD"><img src="https://img.shields.io/badge/-@YodaXD-%23181717?style=flat-square&logo=github" height="25"></a>
-<a href="https://discord.gg"><img src="https://img.shields.io/badge/-Yoda%231337-%232c2f33?style=flat-square&logo=discord" height="25"></a>
+<a href="https://discord.gg"><img src="https://img.shields.io/badge/-Yoda%231854-%232c2f33?style=flat-square&logo=discord" height="25"></a>
 
 
 ## Languages:
