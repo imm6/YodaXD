@@ -24,7 +24,7 @@ Living in Barcelona (Spain).
 
 
 ## Projects:
-<code><a href="https://centauri.tk"><img height="50" src="https://cdn.discordapp.com/attachments/970475795661352960/970704412257443910/transparentplanet.png"></a></code>
+<code><a href="https://centaurishop.xyz"><img height="50" src="https://cdn.discordapp.com/attachments/970475795661352960/970704412257443910/transparentplanet.png"></a></code>
 
 
 ![Yoda's github stats](https://github-readme-stats.vercel.app/api?username=YodaXD&show_icons=true&hide=[%22issues%22])
