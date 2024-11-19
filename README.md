@@ -4,7 +4,7 @@
 
 🏠 Vivo en Barcelona, España  
 📚 Técnico en Sistemas y Redes Informáticas  
-💼 Especialista en Infraestructura IT y Desarrollo
+💼 
 
 ## Habilidades Técnicas 💻
 
