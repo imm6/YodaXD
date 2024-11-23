@@ -2,11 +2,11 @@
 
 ## Sobre mí 🚀
 
-🏠 Vivo en Barcelona, España  
-📚 Técnico en Sistemas y Redes Informáticas  
+🏠 Living in Barcelona, Spain  
+📚 Microsystems and Networking Technician  
 
 
-## Habilidades Técnicas 💻
+## Hard Skills 💻
 
 <div align="center">
   <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; margin-bottom: 20px;">
@@ -23,21 +23,21 @@
   </div>
 </div>
 
-### Administración de Sistemas
+### Systems
 <div align="center">
   <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
     <div>
       🔄 Active Directory
-      📂 Servicios FTP
+      📂 FTP Service
     </div>
     <div>
-      🌐 Configuración DNS
-      💾 Gestión de Bases de Datos
+      🌐 DNS Configuration
+      💾 Data Base Management
     </div>
   </div>
 </div>
 
-## Contacto 📫
+## Contact 📫
 
 <div align="center">
   <a href="https://www.linkedin.com/in/isaac-martinez-873b70328/">
